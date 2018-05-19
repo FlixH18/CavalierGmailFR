@@ -1,10 +1,10 @@
-# GoogleForceMail
+# Cavalier - Gmail Brutforce
 
 I am not responsible for what you can do with this script.
 
 Je ne suis pas responsable de ce que vous pourriez faire avec ce script.
 
-### En quoi consiste le script ?
+### En quoi consiste Cavalier Gmail Bruteforce ?
 
 Le script execute vos wordlists que vous aurez créé en avance (à voir dans Wordlist). 
 A utiliser avec un VPN, si vous voulez jouer la carte de la prudence. 
@@ -16,8 +16,8 @@ cd Bureau (ou Desktop)
 
 #Puis tapez les commandes suivantes
 
--git clone https://github.com/AzarathME/googleforcemail
--cd googleforcemail
+-git clone https://github.com/AzarathME/CavalierGmail
+-cd CavalierGmail
 -chmod +x bruteforce.py
 -python bruteforce.py
 
