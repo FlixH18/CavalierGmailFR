@@ -21,6 +21,7 @@ def main():
    print '  __,-<_     )`-/  `.     '
    print '  \   `---    \   / /      '
    print '                            '
+   print 'Version Française / French Version'
    print ' '
 main()
 print '[1] Commencer une attaque '
