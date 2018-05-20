@@ -1,6 +1,4 @@
-# Cavalier - Gmail Brutforce
-
-I am not responsible for what you can do with this script.
+# Cavalier - Gmail Brutforce Version Française
 
 Je ne suis pas responsable de ce que vous pourriez faire avec ce script.
 
@@ -16,10 +14,13 @@ cd Bureau (ou Desktop)
 
 #Puis tapez les commandes suivantes
 
--git clone https://github.com/AzarathME/CavalierGmail
--cd CavalierGmail
--chmod +x bruteforce.py
--python bruteforce.py
+> git clone https://github.com/AzarathME/CavalierGmail
+
+> cd CavalierGmail
+
+> chmod +x bruteforce.py
+
+> python bruteforce.py
 
 ### Wordlist :
 
