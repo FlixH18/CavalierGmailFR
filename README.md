@@ -12,7 +12,7 @@ A utiliser avec un VPN, si vous voulez jouer la carte de la prudence.
 Allez sur votre Bureau :
 cd Bureau (ou Desktop)
 
-#Puis tapez les commandes suivantes
+#Puis tapez les commandes suivantes#
 
 > git clone https://github.com/AzarathME/CavalierGmailFR
 
@@ -21,6 +21,12 @@ cd Bureau (ou Desktop)
 > chmod +x bruteforce.py
 
 > python bruteforce.py
+
+https://user-images.githubusercontent.com/39438846/40277884-4ae6fdd6-5c27-11e8-830e-ea33a680c6e1.PNG
+
+https://user-images.githubusercontent.com/39438846/40277909-76f826d4-5c27-11e8-8d24-888366281607.PNG
+
+https://user-images.githubusercontent.com/39438846/40277914-8bc1ea8c-5c27-11e8-9698-3a717d3d7c6b.PNG
 
 ### Wordlist :
 
