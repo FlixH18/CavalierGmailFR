@@ -14,7 +14,7 @@ cd Bureau (ou Desktop)
 
 #Puis tapez les commandes suivantes
 
-> git clone https://github.com/AzarathME/CavalierGmail
+> git clone https://github.com/AzarathME/CavalierGmailFR
 
 > cd CavalierGmail
 
